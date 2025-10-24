@@ -1,3 +1,4 @@
 Estos son mis objetivos para el ciclo:
 -Mi primer objetivo es mejorar mis habilidades en programación.
--Mi segundo objetivo es aprender a usar Git y GitHub de manera profesional
+-Mi segundo objetivo es aprender a usar Git y GitHub de manera profesional.
+-Mi tercer objetivo es colaborar en proyectos en equipo usando control de versiones.
